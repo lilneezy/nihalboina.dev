@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "When something is important enough, you do it even if the odds are not in your favor",
+    "occupation": "~Elon Musk",
+    "description": "Developer, Researcher, Nerd",
+    "image": "profilepic.jpg",
+    "bio": "I'm a highly motivated high school student within the field of computer science. I'm very interested in artificial intelligence and am seeking new opportunities to grow.",
+    "contactmessage": "You can contact me through my email and my phone number!",
+    "email": "nihal.boina@gmail.com",
+    "phone": "703-708-4436",
+    "address": {
+      "street": "22825 Watson Hts Cir",
+      "city": "Ashburn",
+      "state": "Virginia",
+      "zip": "20148"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "nihalboina.dev",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "nihalboina.dev",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nihal-boina-b02b8b168/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "nihalboina.dev",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/lilneezy",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Machine Learning, Cybersecurity, Web Design, Critical Thinking",
+    "education": [
+      {
+        "school": "Academy of Science",
+        "degree": "High School Diploma",
+        "graduated": "June 2022",
+        "description": "Here I learned all types of sciences, how to research, and begun my journey into machine learning"
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Tensorflow",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "In the works!",
+        "category": "A really cool thing!",
+        "image": "smirkspace.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+    ]
+  },
+  "testes": {
+    "testes": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Nihal Boina must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
