@@ -45,27 +45,33 @@
     ]
   },
   "resume": {
-    "skillmessage": "Machine Learning, Cybersecurity, Web Design, Critical Thinking",
+    "skillmessage": "Machine Learning, Web Design, Backend",
     "education": [
       {
         "school": "Academy of Science",
         "degree": "High School Diploma",
         "graduated": "June 2022",
-        "description": "Here I learned all types of sciences, how to research, and begun my journey into machine learning"
+        "description": "Here I had a phenomonal learning experience in various kinds of sciences and how to construct genuine research"
       }
     ],
     "work": [
-      {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
     ],
     "skills": [
       {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
         "name": "Tensorflow",
         "level": "80%"
+      },
+      {
+        "name": "Pytorch",
+        "level": "50%"
       },
       {
         "name": "Git",
@@ -118,6 +124,12 @@
       {
         "text": "That Nihal Boina must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
+      },
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ]
   }
